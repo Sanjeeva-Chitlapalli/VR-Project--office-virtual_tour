@@ -1,0 +1,10 @@
+# created with pCon.planner
+
+newmtl SKP_2_491350f2
+Ka 1 1 1
+Kd 1 1 1
+map_Kd SKP__2_491350f2_diffuse.png
+Ks 0 0 0
+Ns 30
+illum 2
+
