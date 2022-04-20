@@ -1,5 +1,5 @@
 ## VR-Project: Office Space Virtual Tour
-The agenda of this project is to create a virtual environment of an office space. In this case we have recreated the office space inspired by the show 'Suits'. We have also created a simple user interface that lets the user control the view.
+The agenda of this project is to create a virtual environment of an office space. In this case we have recreated the office space inspired by the show 'Suits'. We have also created enabled the user to control the view.
 This virtual environment is created using Unity and Blender. 
 
 
